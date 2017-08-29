@@ -1,0 +1,32 @@
+.button-back {
+    position: absolute;
+    left: 20px;
+    bottom: 80px;
+    display: inline-block;
+    z-index: 666;
+}
+
+.size2 {
+    /*background-position: center;*/
+    /*background-size: cover;*/
+    /*max-height: 100%;*/
+    /*max-width: 100%;*/
+    width: 100%;
+    background-position: center;
+    height: auto ;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: relative;
+    text-align: center;
+}
+
+.card-content {
+    padding-right : 0px;
+}
+
+.card-content-right {
+    padding-left : 0px;
+}

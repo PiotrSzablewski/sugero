@@ -1,0 +1,4 @@
+
+export const REQUEST_SHOPS='./REQUEST_SHOPS'
+export const RECEIVE_SHOPS='./RECEIVE_SHOPS'
+
