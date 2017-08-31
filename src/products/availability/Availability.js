@@ -1,6 +1,4 @@
-/**
- * Created by karol on 19.10.16.
- */
+
 import React from 'react'
 import './Availability.css'
 import {finalState} from '../../data/dataProducts'
